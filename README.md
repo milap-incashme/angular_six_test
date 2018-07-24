@@ -26,4 +26,3 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-<img src="https://raw.githubusercontent.com/milap-incashmetest/angular_six_test/master/DevelopedImages/basic_crud_1.png" />
